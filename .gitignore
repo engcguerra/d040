@@ -4,6 +4,6 @@ intro_git.docx
 # podemos indicar o tipo de ficheiros que queremos não incluir nos commits
 *.docx
 *.zip
-
+*.py
 # podemos indicar a pasta que não queremos incluir
 pasta/*
